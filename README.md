@@ -5,4 +5,3 @@ Landing page estática reconstruída a partir do site público `www.fransantosar
 ## Publicação
 
 O projeto está preparado para um Static Site no Render através de `render.yaml`. O conteúdo não depende de uma aplicação de servidor: o formulário abre um email para `fransantosarquitetos@gmail.com`.
-
